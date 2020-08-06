@@ -18,6 +18,16 @@ if (response.ok) { // если HTTP-статус в диапазоне 200-299
   alert("Ошибка HTTP: " + response.status);
 }; 
  </script>
+ 
+ <script>
+  fetch('https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/')
+  .then(response => response.text())
+  .then((result) => {
+    let output = document.createElement('div')
+    output.textContent = result
+    document.body.appendChild(output)
+  })$
+ </script>
   
   
 <table id="table">
@@ -33,7 +43,7 @@ if (response.ok) { // если HTTP-статус в диапазоне 200-299
 
 <script>
 $(document).ready(function(){
-    $('body').append('<br/>7 Этот текст добавлен с помощью полного jQuery');
+    $('body').append('<br/>8 Этот текст добавлен с помощью полного jQuery');
 });
 </script>
 
