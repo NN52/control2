@@ -1,2 +1,2 @@
-document.write('2Сюда можно писать html код');
-alert("Два");
+document.write('3 Сюда можно писать html код');
+alert("Три");
