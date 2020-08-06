@@ -18,7 +18,8 @@ var items = [{
 
     var container = document.getElementById("table").getElementsByTagName("tbody")[0];
 
-    items.forEach(item => {
+Alert("Один");    
+items.forEach(item => {
         var tr = document.createElement("tr");
 
         var cityName = document.createElement('a');
