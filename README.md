@@ -9,10 +9,10 @@
     
 <body>
 <script>
-let response = await fetch("https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/");
+let response = fetch("https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/");
 if (response.ok) { // если HTTP-статус в диапазоне 200-299
   // получаем тело ответа (см. про этот метод ниже)
-  let json = await response.text();
+  let json = response.text();
 } else {
   alert("Ошибка HTTP: " + response.status);
 }; 
