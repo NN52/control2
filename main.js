@@ -13,6 +13,11 @@ var items = [{
             city: 'Rome',
             country: 'Italy',
             link: 'details.html#39'
+        },
+        {
+            city: 'Москва',
+            country: 'Россиия',
+            link: 'details.html#99'
         }
 
     ];
