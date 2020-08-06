@@ -23,5 +23,10 @@ document.write('2Сюда можно писать html код');
 alert("Два");
 </script>
 
+<script>
+document.write('2Сюда можно писать html код');
+alert("Два");
+</script>
+
 </body>
 
