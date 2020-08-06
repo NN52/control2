@@ -21,8 +21,8 @@ document.write('1Сюда можно писать html код');
 <script src="one.js"></script>
 
 <script>
-document.write('2Сюда можно писать html код');
-alert("Два");
+document.write('4 Сюда можно писать html код');
+alert("Четыре");
 </script>
 
 </body>
