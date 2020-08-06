@@ -1,8 +1,8 @@
     <script>
-    for (var j = 0; j < columns; j++) {
+    for (var j = 0; j < 20; j++) {
         td += "<td>" + j + "</td>";
       }
-      for (var i = 0; i < rows; i++) {
+      for (var i = 0; i < 10; i++) {
         tr += "<tr>" + td + "</tr>";
       }
       console.log(tr);
