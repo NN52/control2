@@ -18,11 +18,10 @@
     </tbody>
 </table>
 
-<script src="one.js"></script>
-
 <script>
 alert("Четыре");
 </script>
 
-</body>
+<script src="two.js"></script>
 
+</body>
