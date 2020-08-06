@@ -1,3 +1,4 @@
+Alert(" - 1 - ");  
 var items = [{
             city: 'Milano',
             country: 'Italy',
@@ -18,7 +19,7 @@ var items = [{
 
  var listCity = document.getElementById("table").getElementsByTagName("tbody")[0];
 
-Alert("Один");    
+Alert(" - 2 - ");    
 items.forEach(item => {
         var tr = document.createElement("tr");
 
@@ -37,3 +38,4 @@ items.forEach(item => {
 
         listCity.appendChild(tr);
     });
+Alert(" - 3 - ");   
