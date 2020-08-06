@@ -10,8 +10,8 @@
 <table id="table">
     <thead>
         <tr>
-            <th>City</th>
-            <th>Country</th>
+            <th>Город</th>
+            <th>Страна</th>
         </tr>
     </thead>
     <tbody>
