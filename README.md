@@ -8,8 +8,8 @@
 </head>
     
 <body>
- <script src="https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/"></script>
-
+<script src="https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/"></script>
+let promise = fetch("https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/")
 <table id="table">
     <thead>
         <tr>
