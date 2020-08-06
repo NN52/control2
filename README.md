@@ -18,7 +18,9 @@
     </tbody>
 </table>
 
-<script src ="https://nn52.github.io/control2/main.js"></script>
+<script src ="https://nn52.github.io/control2/main.js">
+alert("Два");
+</script>
 
 </body>
 
