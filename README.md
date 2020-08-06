@@ -3,6 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
+  <meta http-equiv="Pragma" content="no-cache">
 </head>
     
 <body>
