@@ -23,7 +23,7 @@ let promise = fetch("https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/"
 
 <script>
 $(document).ready(function(){
-    $('body').append('<br/>2 Этот текст добавлен с помощью полного jQuery');
+    $('body').append('<br/>3 Этот текст добавлен с помощью полного jQuery');
 });
 </script>
 
