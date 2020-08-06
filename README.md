@@ -22,7 +22,7 @@
 
 <script>
 $(document).ready(function(){
-    $('body').append('<br/>Этот текст добавлен с помощью jQuery');
+    $('body').append('<br/>Этот текст добавлен с помощью полного jQuery');
 });
 $.ajax({
     type: 'GET',
