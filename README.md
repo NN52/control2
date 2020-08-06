@@ -19,7 +19,7 @@
     </tbody>
 </table>
 
-<script src="main.js"></script>
+<script src="one.js"></script>
 
 <script>
 alert("Четыре");
