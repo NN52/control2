@@ -18,7 +18,7 @@
     </tbody>
 </table>
 
-<script src ="main.js"></script>
+<script src ="https://nn52.github.io/control2/main.js"></script>
 
 </body>
 
