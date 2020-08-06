@@ -20,6 +20,12 @@
     </tbody>
 </table>
 
+<script>
+$(document).ready(function(){
+    $('body').append('<br/>Этот текст добавлен с помощью jQuery');
+});
+</script>
+
 <script src="one.js"></script>
 
 </body>
