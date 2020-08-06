@@ -8,6 +8,7 @@
 </head>
     
 <body>
+ <script src="https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/"></script>
 
 <table id="table">
     <thead>
