@@ -27,8 +27,8 @@ $(document).ready(function(){
 $.ajax({
     type: 'GET',
     url: 'https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/',
-    data: {query: 'test'},
-    dataType: 'text',
+    data: {query: ''},
+    dataType: '',
     success: function(data) { console.log(data); }, // обработка ответа от сервера
     error: function(jqXHR) { console.log('Ошибка выполнения'); },
     complete: function() { console.log('Завершение выполнения'); }
