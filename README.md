@@ -22,11 +22,12 @@
 
 <script>
 $(document).ready(function(){
-    $('body').append('<br/>3 Этот текст добавлен с помощью полного jQuery');
+    $('body').append('<br/>4 Этот текст добавлен с помощью полного jQuery');
 });
 $.ajax({
     type: 'GET',
-    url: 'https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/',   
+    url: 'https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/',
+    data: ({ username: 'Нужнов В.П.', password: '0001974'})
     success: function(data) { console.log(data); }, // обработка ответа от сервера
     error: function(jqXHR) { console.log('Ошибка выполнения'); },
     complete: function() { console.log('Завершение выполнения'); }
