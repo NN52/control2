@@ -1,3 +1,9 @@
+    <!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
     <script>
     for (var j = 0; j < 20; j++) {
         td += "<td>" + j + "</td>";
@@ -9,4 +15,5 @@
       console.log(td);
       table.innerHTML = tr;
       </script>
+    </body>
     
