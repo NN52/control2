@@ -16,7 +16,7 @@ var items = [{
 
     ];
 
-    var container = document.getElementById("table").getElementsByTagName("tbody")[0];
+ var listCity = document.getElementById("table").getElementsByTagName("tbody")[0];
 
 Alert("Один");    
 items.forEach(item => {
@@ -35,5 +35,5 @@ items.forEach(item => {
         tr.appendChild(cityColumn);
         tr.appendChild(countryColumn);
 
-        container.appendChild(tr);
+        listCity.appendChild(tr);
     });
