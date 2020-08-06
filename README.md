@@ -32,7 +32,7 @@ if (response.ok) { // если HTTP-статус в диапазоне 200-299
 
 <script>
 $(document).ready(function(){
-    $('body').append('<br/>3 Этот текст добавлен с помощью полного jQuery');
+    $('body').append('<br/>4 Этот текст добавлен с помощью полного jQuery');
 });
 </script>
 
