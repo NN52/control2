@@ -18,7 +18,7 @@ document.write('1Сюда можно писать html код');
     </tbody>
 </table>
 
-<script src="one.js"></script>
+<script src="main.js"></script>
 
 <script>
 document.write('4 Сюда можно писать html код');
