@@ -23,16 +23,7 @@
 
 <script>
 $(document).ready(function(){
-    $('body').append('<br/>1 Этот текст добавлен с помощью полного jQuery');
-});
-$.ajax({
-    type: 'GET',
-    url: 'https://study.ps-gkh.ru/v8_nn_zhkh20_study/hs/api/v1/ping/',
-    dheaders: {"Access-Control-Allow-Origin": "*"},
-    dheaders: {"Authorization": "Basic 0J3Rg9C20L3QvtCyINCSLtCfLjowMDAxOTc0"},
-    success: function(data) { console.log(data); }, // обработка ответа от сервера
-    error: function(jqXHR) { console.log('Ошибка выполнения'); },
-    complete: function() { console.log('Завершение выполнения'); }
+    $('body').append('<br/>2 Этот текст добавлен с помощью полного jQuery');
 });
 </script>
 
