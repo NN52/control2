@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="Pragma" content="no-cache">
+  <script type="text/javascript" src="jquery.js"></script>  
 </head>
     
 <body>
