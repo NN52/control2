@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="Pragma" content="no-cache">
-  <script type="text/javascript" src="jquery.js"></script>  
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>  
 </head>
     
 <body>
