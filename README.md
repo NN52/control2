@@ -1,6 +1,3 @@
-<!doctype html>
-<html lang="ru">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="Pragma" content="no-cache">
