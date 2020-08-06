@@ -18,11 +18,6 @@ document.write('1Сюда можно писать html код');
     </tbody>
 </table>
 
-<script src ="https://nn52.github.io/control2/main.js">
-document.write('2Сюда можно писать html код');
-alert("Два");
-</script>
-
 <script>
 document.write('2Сюда можно писать html код');
 alert("Два");
