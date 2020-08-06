@@ -19,6 +19,11 @@ document.write('1Сюда можно писать html код');
 </table>
 
 <script>
+document.write('1Сюда можно писать html код');
+alert("Один");
+</script>
+
+<script>
 document.write('2Сюда можно писать html код');
 alert("Два");
 </script>
