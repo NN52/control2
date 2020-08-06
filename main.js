@@ -1,16 +1,3 @@
-<table id="table">
-    <thead>
-        <tr>
-            <th>City</th>
-            <th>Country</th>
-        </tr>
-    </thead>
-    <tbody>
-    </tbody>
-</table>
-
-<script>
-
 var items = [{
             city: 'Milano',
             country: 'Italy',
