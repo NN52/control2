@@ -34,6 +34,4 @@ $.ajax({
 });
 </script>
 
-<script src="one.js"></script>
-
 </body>
