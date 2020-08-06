@@ -10,7 +10,7 @@
 <table id="table">
     <thead>
         <tr>
-            <th>Город</th>
+            <th> - Город - </th>
             <th>Страна</th>
         </tr>
     </thead>
@@ -18,10 +18,12 @@
     </tbody>
 </table>
 
+<script src="one.js"></script>
+
+<script src="two.js"></script>
+
 <script>
 alert("Четыре");
 </script>
-
-<script src="two.js"></script>
 
 </body>
